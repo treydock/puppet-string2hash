@@ -48,7 +48,7 @@ I've included the helper function gen_string.rb to aid in converting puppet hash
 
 NOTE: All items in the must be encapsulated in double quotes
 
-To use simply run the script
+To use, edit the value of input_hash to reflect your Puppet hash, then run the script
 
 ```bash
 ruby ./gen_string.rb
