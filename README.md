@@ -1,3 +1,5 @@
+# puppet-string2hash [![Build Status](https://travis-ci.org/treydock/puppet-string2hash.png)](https://travis-ci.org/treydock/puppet-string2hash)
+
 This puppet function converts a JSON formatted string into a Puppet hash.  This allows the string to be passed into a define from the ENC.
 
 This relies on the use of the create_resources function.  This is built in as of 2.7.x.
